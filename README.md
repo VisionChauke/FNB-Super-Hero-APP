@@ -1,0 +1,1 @@
+The Superhero App is a fun and interactive application that allows users to search for superheroes, view their profiles, and learn about their powers and history. This app uses superhero data (either static JSON or API) and presents it in a user-friendly, engaging format.
